@@ -29,5 +29,9 @@ var funkyFunction = function() {
 // NOTE: you only need to modify the code below this line.
 var theFunk1 = funkyFunction()
 var theFunk = theFunk1()
+//or:
 // var theFunk = funkyFunction();
 // theFunk = theFunk();
+// also works in console as:
+// var theFunk = funkyFunction();
+// theFunk();
